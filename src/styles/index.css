@@ -9,3 +9,18 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.todo-main-card {
+  max-width: 550px;
+}
+
+.todo-stack-1 {
+  max-width: 546px;
+  height: 4px;
+}
+
+
+.todo-stack-2 {
+  max-width: 542px;
+  height: 4px;
+}
